@@ -34,3 +34,4 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
  - [Web](https://github.com/orgs/CodeDocsJECRC/teams/web) - Team of web developer
  - [Website](https://github.com/orgs/CodeDocsJECRC/teams/website) - The website maintainers
  - [Graders](https://github.com/orgs/CodeDocsJECRC/teams/graders) - CD101 assignment graders
+ - [Instructors](https://github.com/orgs/CodeDocsJECRC/teams/instructors) - Team of all the Instructors
