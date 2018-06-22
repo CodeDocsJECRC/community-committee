@@ -23,7 +23,6 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 | Dhruv Jain | 7CSE | [@maddhruv](https://github.com/maddhruv) | [dhruvjainpenny@gmail.com](mailto:dhruvjainpenny@gmail.com) | CommComm Director | 
 | Aakansha Jain | 5CSE | [@accakks](https://github.com/accakks) | [aakanksha.jain8@gmail.com](mailto:aakanksha.jain8@gmail.com) | CommComm Chair |
 | Amrit Shrivastava | 5CSE | [@amritsrivastava](https://github.com/amritsrivastava) | [Srivastava.amrit1999@gmail.com](mailto:Srivastava.amrit1999@gmail.com) | CommComm Co-Chair |
-| Samyak Jain | 5CSE | [@samyak360](https://github.com/samyak360) | [samyak360@gmail.com](mailto:samyak360@gmail.com) | CommComm Co-Chair |
 | Shiv Soni  | 7CSE | [@ShivSoni5](https://github.com/ShivSoni5)| [shivsonic05@gmail.com](mailto:shivsonic05@gmail.com) | Emeritus |
 | Gaurav Gupta  | 7IT | [@GAURAVdante](https://github.com/GAURAVdante)| [gauravguptahappy97@gmail.com](mailto:gauravguptahappy97@gmail.com) | Emeritus |
 | Aman Vijay | 7CSE | [@amanvijayv](https://github.com/amanvijayv) | [amanvijayv@gmail.com](mailto:amanvijayv@gmail.com) | Emeritus |
