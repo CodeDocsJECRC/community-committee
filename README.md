@@ -32,7 +32,7 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 | Prateek Vijayvergiya| 7CSE | [@prateekvijayvergiya](https://github.com/prateekvijayvergiya) | [prateek.vijayudr27@gmail.com](mailto:prateek.vijayudr27@gmail.com) | Emeritus |
 | Rishabh Anand | 7ECE | [@19ANDY](https://github.com/19ANDY)| [geniusrishabhanand@gmail.com](mailto:geniusrishabhanand@gmail.com)| Emeritus |
 | Gaurav Jain | 7CSE | [@gauravjain99](https://github.com/gauravjain99) | [gauravj9414@gmail.com](mailto:gauravj9414@gmail.com) | Emeritus |
-| Aayush Goyal | 7CSE | [@satan17](https://github.com/satan17) | - | Emeritus |
+| Aayush Goyal | 7CSE | [@satan17](https://github.com/satan17) | [aayushcool25@gmail.com](mailto:aayushcool25@gmail.com) | Emeritus |
 
 ## Teams
 
