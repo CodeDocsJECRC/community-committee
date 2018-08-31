@@ -23,6 +23,11 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 | Dhruv Jain | 7CSE | [@maddhruv](https://github.com/maddhruv) | [dhruvjainpenny@gmail.com](mailto:dhruvjainpenny@gmail.com) | CommComm Director | 
 | Aakansha Jain | 5CSE | [@accakks](https://github.com/accakks) | [aakanksha.jain8@gmail.com](mailto:aakanksha.jain8@gmail.com) | CommComm Chair |
 | Amrit Shrivastava | 5CSE | [@amritsrivastava](https://github.com/amritsrivastava) | [Srivastava.amrit1999@gmail.com](mailto:Srivastava.amrit1999@gmail.com) | CommComm Co-Chair |
+| Aditya Agarwal | 5CSE | [@aditya81070](https://github.com/aditya81070)| [aditya81070@gmail.com](mailto:aditya81070@gmail.com)| 'Pair & Learn' Coordinator|
+| Akash Lakhera | 5CSE | [@akashlakhera](https://github.com/akashlakhera)| [akashlakhera05@gmail.com](mailto:akashlakhera05@gmail.com)| Sponsorship Coordinator|
+| Yukti Goswami | 5CSE | [@ukigos](https://github.com/ukigos)| [yuktig.jaipur@gmail.com](mailto:yuktig.jaipur@gmail.com)| CommComm Organiser |
+| Soumil Khandelwal | 5CSE | [@soumilk](https://github.com/soumilk)| [soumilkhandelwal.cse20@jecrc.ac.in](mailto:soumilkhandelwal.cse20@jecrc.ac.in)| CommComm Organiser|
+| Abhimanyu | 5CSE | [@Abhimanyu121](https://github.com/Abhimanyu121)| [abhimanushekhawat.it21@jecrc.ac.in](mailto:abhimanushekhawat.it21@jecrc.ac.in)| CommComm Organiser|
 | Shiv Soni  | 7CSE | [@ShivSoni5](https://github.com/ShivSoni5)| [shivsonic05@gmail.com](mailto:shivsonic05@gmail.com) | Emeritus |
 | Gaurav Gupta  | 7IT | [@GAURAVdante](https://github.com/GAURAVdante)| [gauravguptahappy97@gmail.com](mailto:gauravguptahappy97@gmail.com) | Emeritus |
 | Aman Vijay | 7CSE | [@amanvijayv](https://github.com/amanvijayv) | [amanvijayv@gmail.com](mailto:amanvijayv@gmail.com) | Emeritus |
