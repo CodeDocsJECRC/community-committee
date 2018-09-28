@@ -29,7 +29,7 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 | Abhilash Tiwari | 5CSE | [@abhilashk433](https://github.com/abhilashk433) | [abhilashk433@gmail.com](https://mailto:abhilashk433@gmail.com) | Events Coordinator|
 | Shubham Jindal | 7CSE | [@08shubhamjindal](https://github.com/08shubhamjindal) | [shubhamjindal.cse19@jecrc.ac.in](mailto:shubhamjindal.cse19@jecrc.ac.in)| Competitive Programming Coordinator |
 | Suraj Kumar | 5CSE | [@surajkumarcse](https://github.com/surajkumarcse) | [iamsurajkjaisvall@outlook.com](mailto:iamsurajkjaisvall@outlook.com) | Competitve Programming Co-Coordinator |
-| Abhimanyu | 3IT | [@Abhimanyu121](https://github.com/Abhimanyu121)| [abhimanushekhawat.it21@jecrc.ac.in](mailto:abhimanushekhawat.it21@jecrc.ac.in)| HacktoberFest Champion |
+| Abhimanyu Shekhawat | 3IT | [@Abhimanyu121](https://github.com/Abhimanyu121)| [abhimanushekhawat.it21@jecrc.ac.in](mailto:abhimanushekhawat.it21@jecrc.ac.in)| HacktoberFest Champion |
 | Manank Patni| 3IT | [@Man-Jain](https://github.com/Man-Jain) | [manank321@gmail.com](https://mailto:manank321@gmail.com)| HacktoberFest Champion |
 | Namandeep Singh | 5CSE | [@nd-singh](https://github.com/nd-singh) | [ndsingh208@gmail.com](mailto:ndsingh208@gmail.com) | Android Lead |
 | Yukti Goswami | 5CSE | [@ukigos](https://github.com/ukigos)| [yuktig.jaipur@gmail.com](mailto:yuktig.jaipur@gmail.com)| Mentor - Android |
@@ -52,12 +52,12 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 
 ## Teams
 
-- [Android](https://github.com/orgs/CodeDocsJECRC/teams/android) - Team of android developer
-- [Web](https://github.com/orgs/CodeDocsJECRC/teams/web) - Team of web developer
+- [Android](https://github.com/orgs/CodeDocsJECRC/teams/android) - Team of android developers
+- [Web](https://github.com/orgs/CodeDocsJECRC/teams/web) - Team of web developers
 - [Website](https://github.com/orgs/CodeDocsJECRC/teams/website) - The website maintainers
 - [Graders](https://github.com/orgs/CodeDocsJECRC/teams/graders) - CD101 assignment graders
 - [Instructors](https://github.com/orgs/CodeDocsJECRC/teams/instructors) - Team of all the Instructors
-- [Data-Science](https://github.com/orgs/CodeDocsJECRC/teams/data-science) - Team of Data Science Engineers
+- [Data-Science](https://github.com/orgs/CodeDocsJECRC/teams/data-science) - Team of Data Scientists
 - [Graphics](https://github.com/orgs/CodeDocsJECRC/teams/graphics) - Team of Graphic Designers
 - [Events](https://github.com/orgs/CodeDocsJECRC/teams/events) - Team of Event Organisers
 - [Sponsorship](https://github.com/orgs/CodeDocsJECRC/teams/sponsorship) - Sponsorship Team
