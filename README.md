@@ -28,6 +28,7 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 | Yukti Goswami | 5CSE | [@ukigos](https://github.com/ukigos)| [yuktig.jaipur@gmail.com](mailto:yuktig.jaipur@gmail.com)| CommComm Organiser |
 | Soumil Khandelwal | 5CSE | [@soumilk](https://github.com/soumilk)| [soumilkhandelwal.cse20@jecrc.ac.in](mailto:soumilkhandelwal.cse20@jecrc.ac.in)| CommComm Organiser|
 | Abhimanyu | 3IT | [@Abhimanyu121](https://github.com/Abhimanyu121)| [abhimanushekhawat.it21@jecrc.ac.in](mailto:abhimanushekhawat.it21@jecrc.ac.in)| CommComm Organiser|
+| Namandeep Singh | 5CSE | [@nd-singh](https://github.com/nd-singh) | [ndsingh208@gmail.com](mailto:ndsingh208@gmail.com) | Course Admin - Android |
 | Shiv Soni  | 7CSE | [@ShivSoni5](https://github.com/ShivSoni5)| [shivsonic05@gmail.com](mailto:shivsonic05@gmail.com) | Emeritus |
 | Gaurav Gupta  | 7IT | [@GAURAVdante](https://github.com/GAURAVdante)| [gauravguptahappy97@gmail.com](mailto:gauravguptahappy97@gmail.com) | Emeritus |
 | Aman Vijay | 7CSE | [@amanvijayv](https://github.com/amanvijayv) | [amanvijayv@gmail.com](mailto:amanvijayv@gmail.com) | Emeritus |
@@ -39,6 +40,7 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 | Gaurav Jain | 7CSE | [@gauravjain99](https://github.com/gauravjain99) | [gauravj9414@gmail.com](mailto:gauravj9414@gmail.com) | Emeritus |
 | Aayush Goyal | 7CSE | [@satan17](https://github.com/satan17) | [aayushcool25@gmail.com](mailto:aayushcool25@gmail.com) | Emeritus |
 |Namandeep Singh| 5CSE | [@nd-singh](https://github.com/nd-singh) | [ndsingh208@gmail.com](mailto:ndsingh208@gmail.com) | Android Mentor |
+
 
 
 ## Teams
