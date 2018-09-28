@@ -38,6 +38,8 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 | Rishabh Anand | 7ECE | [@19ANDY](https://github.com/19ANDY)| [geniusrishabhanand@gmail.com](mailto:geniusrishabhanand@gmail.com)| Emeritus |
 | Gaurav Jain | 7CSE | [@gauravjain99](https://github.com/gauravjain99) | [gauravj9414@gmail.com](mailto:gauravj9414@gmail.com) | Emeritus |
 | Aayush Goyal | 7CSE | [@satan17](https://github.com/satan17) | [aayushcool25@gmail.com](mailto:aayushcool25@gmail.com) | Emeritus |
+|Namandeep Singh| 5CSE | [@nd-singh](https://github.com/nd-singh) | [ndsingh208@gmail.com](mailto:ndsingh208@gmail.com) | Android Mentor |
+
 
 ## Teams
 
