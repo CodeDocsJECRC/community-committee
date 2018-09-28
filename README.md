@@ -35,8 +35,8 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 | Yukti Goswami | 5CSE | [@ukigos](https://github.com/ukigos)| [yuktig.jaipur@gmail.com](mailto:yuktig.jaipur@gmail.com)| Mentor - Android |
 | Soumil Khandelwal | 5CSE | [@soumilk](https://github.com/soumilk)| [soumilkhandelwal.cse20@jecrc.ac.in](mailto:soumilkhandelwal.cse20@jecrc.ac.in)| Graphic Lead, Mentor - Android |
 | Akshay Sharma | 5CSE | [@Akshaysharma](https://github.com/akshaysharma2277) | [akshaysharma2277@gmail.com](mailto:akshaysharma2277@gmail.com) | Web Lead |
-| Abhishek Mohata | 5CSE | []()| []()| Mentor - Web |
-| Aditya Kaushik | 5CSE | []()| []()| Data Science Lead |
+| Abhishek Mohata | 5CSE | [@amohata007](https://github.com/amohata007)| [amohata.005@gmail.com](https://mailto:amohata.005@gmail.com)| Mentor - Web |
+| Aditya Kaushik | 5CSE | [@aditya98ak](https://github.com/aditya98ak)| [adityakaushik471@gmail.com](https://mailto:adityakaushik471@gmail.com)| Data Science Lead |
 | Shiv Soni  | 7CSE | [@ShivSoni5](https://github.com/ShivSoni5)| [shivsonic05@gmail.com](mailto:shivsonic05@gmail.com) | Emeritus |
 | Gaurav Gupta  | 7IT | [@GAURAVdante](https://github.com/GAURAVdante)| [gauravguptahappy97@gmail.com](mailto:gauravguptahappy97@gmail.com) | Emeritus |
 | Aman Vijay | 7CSE | [@amanvijayv](https://github.com/amanvijayv) | [amanvijayv@gmail.com](mailto:amanvijayv@gmail.com) | Emeritus |
