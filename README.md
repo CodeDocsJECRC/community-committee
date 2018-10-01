@@ -22,7 +22,7 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 | ----- | ------ | ----- | ----- | ----- |
 | Dhruv Jain | 7CSE | [@maddhruv](https://github.com/maddhruv) | [dhruvjainpenny@gmail.com](mailto:dhruvjainpenny@gmail.com) | CommComm Director | 
 | Aakanksha Jain| 5CSE | [@accakks](https://github.com/accakks) | [aakanksha.jain8@gmail.com](mailto:aakanksha.jain8@gmail.com) | CommComm Chair |
-| Amrit Shrivastava | 5CSE | [@amritsrivastava](https://github.com/amritsrivastava) | [Srivastava.amrit1999@gmail.com](mailto:Srivastava.amrit1999@gmail.com) | CommComm Co-Chair |
+| Amrit Srivastava | 5CSE | [@amritsrivastava](https://github.com/amritsrivastava) | [Srivastava.amrit1999@gmail.com](mailto:Srivastava.amrit1999@gmail.com) | CommComm Co-Chair |
 | Aditya Agarwal | 5CSE | [@aditya81070](https://github.com/aditya81070)| [aditya81070@gmail.com](mailto:aditya81070@gmail.com)| 'Pair & Learn' Coordinator|
 | Akash Lakhera | 5CSE | [@akashlakhera](https://github.com/akashlakhera)| [akashlakhera05@gmail.com](mailto:akashlakhera05@gmail.com)| Sponsorship Coordinator|
 | Abhishek Agarwal | 5CSE | [@agarwalabhishek527](https://github.com/agarwalabhishek527) | [agarwal.abhishek527@gmail.com](https://mailto:agarwal.abhishek527@gmail.com)| Sponsorship Coordinator |
