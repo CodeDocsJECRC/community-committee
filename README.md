@@ -20,7 +20,6 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 
 | Name | Branch/Dept | Github | Email | Designation |
 | ----- | ------ | ----- | ----- | ----- |
-| Dhruv Jain | 7CSE | [@maddhruv](https://github.com/maddhruv) | [dhruvjainpenny@gmail.com](mailto:dhruvjainpenny@gmail.com) | CommComm Director | 
 | Aakanksha Jain| 5CSE | [@accakks](https://github.com/accakks) | [aakanksha.jain8@gmail.com](mailto:aakanksha.jain8@gmail.com) | CommComm Chair |
 | Amrit Srivastava | 5CSE | [@amritsrivastava](https://github.com/amritsrivastava) | [Srivastava.amrit1999@gmail.com](mailto:Srivastava.amrit1999@gmail.com) | CommComm Co-Chair |
 | Aditya Agarwal | 5CSE | [@aditya81070](https://github.com/aditya81070)| [aditya81070@gmail.com](mailto:aditya81070@gmail.com)| 'Pair & Learn' Coordinator|
@@ -37,6 +36,7 @@ Community Committee meetings will be broadcast via [Zoom](zoom.us), will be anno
 | Akshay Sharma | 5CSE | [@Akshaysharma](https://github.com/akshaysharma2277) | [akshaysharma2277@gmail.com](mailto:akshaysharma2277@gmail.com) | Web Lead |
 | Abhishek Mohata | 5CSE | [@amohata007](https://github.com/amohata007)| [amohata.005@gmail.com](https://mailto:amohata.005@gmail.com)| Mentor - Web |
 | Aditya Kaushik | 5CSE | [@aditya98ak](https://github.com/aditya98ak)| [adityakaushik471@gmail.com](https://mailto:adityakaushik471@gmail.com)| Data Science Lead |
+| Dhruv Jain | 7CSE | [@maddhruv](https://github.com/maddhruv) | [dhruvjainpenny@gmail.com](mailto:dhruvjainpenny@gmail.com) | Emeritus |
 | Shiv Soni  | 7CSE | [@ShivSoni5](https://github.com/ShivSoni5)| [shivsonic05@gmail.com](mailto:shivsonic05@gmail.com) | Emeritus |
 | Gaurav Gupta  | 7IT | [@GAURAVdante](https://github.com/GAURAVdante)| [gauravguptahappy97@gmail.com](mailto:gauravguptahappy97@gmail.com) | Emeritus |
 | Aman Vijay | 7CSE | [@amanvijayv](https://github.com/amanvijayv) | [amanvijayv@gmail.com](mailto:amanvijayv@gmail.com) | Emeritus |
